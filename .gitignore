@@ -2,4 +2,4 @@
 *.log
 *.csv
 *.xlsx
-
+.ipynb_checkpoints
