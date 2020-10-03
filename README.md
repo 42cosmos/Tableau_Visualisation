@@ -8,6 +8,9 @@
 - Abandoned Animals
 - Bestseller-Book title Analysis  
 - Cirque du Soleil
+- Domestic Travel
+- Écrits
+- Francis Bacon
 
 
 ---
