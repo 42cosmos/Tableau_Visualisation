@@ -7,7 +7,7 @@
 
 - Abandoned Animals
 - Bestseller-Book title Analysis  
-- Cirque du Soleil
+- Comparison of Area by major city in Korea
 - Domestic Travel
 - Écrits
 - Francis Bacon
