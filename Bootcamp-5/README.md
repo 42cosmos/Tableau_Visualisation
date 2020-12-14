@@ -1,1 +1,1 @@
-![[수료증]박은빈](./Tableau_Visualisation/Bootcamp-5/[수료증]박은빈.jpg)
+![[수료증]박은빈](./[수료증]박은빈.jpg)
